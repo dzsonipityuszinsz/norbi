@@ -32,6 +32,24 @@ body{
 }
 #tartalom{
     width: 960px;
-    height: max-content;
     height: 100vh;
+    margin-top: 0px;
+    float: 0% 32%;
+    background-color: skyblue;
+    border-left: 15px double blue ;
+}
+p{
+text-align: justify;
+padding: 10px;
+
+}
+
+.fénykép {
+    float: right;
+    width: 150px;
+}
+
+a a:active a:hover a:visited{
+    color: white;
+    text-decoration: none;
 }
