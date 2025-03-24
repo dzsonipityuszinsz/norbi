@@ -31,5 +31,7 @@ body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 #tartalom{
-    color: blue;
+    width: 960px;
+    height: max-content;
+    height: 100vh;
 }
